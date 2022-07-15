@@ -1,0 +1,6 @@
+Credentials cache: API:032B8A3A-E6E5-4B34-9FCB-224ECDB452CC
+        Principal: aavci@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  2 12:19:22 2021  Sep  2 22:19:22 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Sep  2 12:19:24 2021  Sep  2 22:19:22 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
